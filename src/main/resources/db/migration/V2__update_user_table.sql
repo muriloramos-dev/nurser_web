@@ -1,0 +1,1 @@
+ALTER TABLE _user ADD COLUMN birth_date DATE, ADD COLUMN created_at DATE, ADD COLUMN updated_at DATE;

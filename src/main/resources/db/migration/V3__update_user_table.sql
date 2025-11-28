@@ -1,0 +1,1 @@
+ALTER TABLE _user ADD COLUMN coren varchar(8) UNIQUE
